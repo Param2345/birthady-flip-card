@@ -1,6 +1,6 @@
 # birthady-flip-card
 
-A dynamic, animated birthday card web app built using **Flask** (Python), HTML, CSS, and JavaScript. This app allows you to generate personalized birthday greeting cards via URL parameters like `?name=Param`.
+A dynamic, animated birthday card web app built using  HTML, CSS, and JavaScript. This app allows you to generate personalized birthday greeting cards via URL parameters like `?name=Param`.
 
 ---
 
