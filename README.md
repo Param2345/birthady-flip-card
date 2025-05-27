@@ -16,8 +16,6 @@ A dynamic, animated birthday card web app built using **Flask** (Python), HTML, 
 
 ## 🧩 Technologies Used
 
-- Python 3.x
-- Flask 2.3.x
 - HTML5 & CSS3
 - JavaScript (DOM, audio, animations)
 
@@ -26,20 +24,14 @@ A dynamic, animated birthday card web app built using **Flask** (Python), HTML, 
 ## 📁 Project Structure
 
 birthday-flip-card/
-├── app.py
 ├── requirements.txt
-├── static/
-│ ├── flip-card.css
-│ ├── style.css
-│ ├── happy-birthday.mp3
-│ └── cake.png
-└── templates/
+├─  flip-card.css
+│── flip-card.css
+│── style.css
+│── happy-birthday.mp3
+│── cake.png
 ├── index.html
 └── flip-card.html
-
-yaml
-Copy
-Edit
 
 ---
 
